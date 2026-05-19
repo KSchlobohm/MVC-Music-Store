@@ -1,4 +1,7 @@
 # About this Repository
+
+> **Repository status:** This GitHub repository is kept as a frozen demo baseline. Make changes in local branches or forks rather than proposing updates here.
+
 This repo exists for purposes of understanding and researching how to work with older projects. The original MVC Music Store project was made available on CodePlex and can be found in their archive.
 
 * https://archive.codeplex.com/?p=mvcmusicstore
